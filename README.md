@@ -4,9 +4,8 @@ Welcome to the GitHub repository for our Quadcopter GUI & Control, part of the "
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
-- ... (Add all team members with their IDs)
+- Member 1: Fatwa Aulia Al-Haq - 4121600020
+- Member 2: Diyon Aziz Saifulloh - 4121600025
 
 ## Repository Structure
 
