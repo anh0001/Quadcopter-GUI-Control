@@ -4,9 +4,9 @@ Welcome to the GitHub repository for our Quadcopter GUI & Control, part of the "
 
 ## Team Members
 
-- Member 1: Fatkhur Rohman Fajar Pramuji - 4121600043
-- Member 2: Reza Zakaria - 4121600048
-- ... (Add all team members with their IDs)
+- Kelas B Meka 2023:
+  - Member 1: Fatkhur Rohman Fajar Pramuji - 4121600043
+  - Member 2: Reza Zakaria - 4121600048
 
 ## Repository Structure
 
