@@ -27,7 +27,7 @@ float ypr[3];
 double SP_Pitch, SP_Roll, SP_Yaw, SP_Throttle;
 double IN_Pitch, IN_Roll, IN_Yaw, IN_Throttle;
 double OUT_Pitch, OUT_Roll, OUT_Yaw, OUT_Throttle;
-double Kp = 1, Ki = 0.1, Kd = 0;
+double Kp = 0.5, Ki = 0.1, Kd = 0.05;
 
 // Declare Object
 PPMReader ppm(PPM_PIN, CHANNEL_AMOUNT);
@@ -166,9 +166,9 @@ void loop() {
   analogWrite(ESC_PWM_PIN_3, ESCVal_3);
   analogWrite(ESC_PWM_PIN_4, ESCVal_4);
   
-  // Serial Print
+  // Serial Print for Debug
   char buffer[64];
-  sprintf(buffer, "%d;%d;%d;%d;%d;%d;%d;%d;%d;%d", int(IN_Pitch), int(OUT_Pitch), int(SP_Pitch), int(ypr[1]), int(ypr[2]), int(ypr[0]), ESCVal_1, ESCVal_2, ESCVal_3, ESCVal_4);
+  sprintf(buffer, "%d;%d;%d;%d;%d;%d;%d;%d;%d;%d", PPMVal[0], PPMVal[1], PPMVal[2], int(ypr[1]), int(ypr[2]), int(ypr[0]), ESCVal_1, ESCVal_2, ESCVal_3, ESCVal_4);
   Serial.println(buffer);
 
   // Send Telemetry
