@@ -4,7 +4,7 @@ Welcome to the GitHub repository for our Quadcopter GUI & Control, part of the "
 
 ## Team Members
 
-- Kelas B Meka 2023:
+- Kelas A_group 2 Meka 2023:
   - Member 1 : Risky Odang Sanjaya  - 4121600013
   - Member 2 : Adellia Prathatya    - 4121600016
   - Member 3 : Aisha Zefanya Alevia - 4121600024
