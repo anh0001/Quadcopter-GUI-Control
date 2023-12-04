@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <PPMReader.h>
 #include <Simple_MPU6050.h>
-#include <PID_v1.h>
+#include <PIDv1.h>
 
 // Declare Pin
 #define PPM_PIN 19
