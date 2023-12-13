@@ -4,8 +4,8 @@ Welcome to the GitHub repository for our Quadcopter GUI & Control, part of the "
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
+- Member 1: Junio Hangga Wicaksono - 4121600046
+- Member 2: Achmad Bagus Okto Faerizqi - 4121600054
 - ... (Add all team members with their IDs)
 
 ## Repository Structure
