@@ -1,4 +1,4 @@
-# Instalasi Quadcopter 
+**Instalasi Quadcopter** 
 
 ## Komponen yang dibutuhkan
 - Frame Quadcopter
@@ -17,3 +17,18 @@
 ### Petunjuk koneksi telemetri dan receiver
 - Sambungkan Telemetri pada COM 0
 - Hubungkan receiver dengan kabel jumper pada channel 1
+#### dengan konfigurasi receiver sebagai berikut
+- Port tengah   = VCC 5V
+- Port Atas     = Pin 19
+- Port Bawah    = Ground
+### MPU 6050
+- Pastikan tidak perlu memasang pin AD0 dan INT, Tidak perlu dihubungkan 
+### Baterai
+- Hubungkan baterai dan pastikan terhubung dengan benar
+
+
+## Langkah-langkah dalam binding remote
+- Tekan tombol binding di bawah kanan
+- Tekan terus menerus hingga remote menyala dengan cara memindah switch dari off ke on
+- tunggu proses binding
+

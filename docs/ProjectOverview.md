@@ -1,0 +1,3 @@
+# Ulasan Projek Quadcopter
+Quadcopter dengan menggunakan mikrokontroller Arduino mega 2560 diintegrasikan dengan MPU6050 dan menggunakan firmware dari multiwii, masih belum dapat dipraktikan dikarenakan tidak kompatibel dengan frame quadcopter. Dengan tidak menggunakan kinematika yang dirumuskan maka Quadcopter tidak dapat stabil jika hanya menggunakan PID saja. Di angka 50% throttle Quadcopter baru dapat melakukan hovering namun hanya sebentar saja sebelum quadcopter mengguling.
+**diharuskan menggunakan perumusan kinematika dalam merancang quadcopter**
