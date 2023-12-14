@@ -1,0 +1,2 @@
+# Ulasan Proyek Quadcopter
+Quadcopter dengan menggunakan Arduino mega 2560 yang diintegrasikan dengan MPU6050 dan menggunakan custom firmware. Dengan tidak menggunakan kinematika yang dirumuskan dengan benar, maka quadcopter tidak dapat terbang dengan stabil jika hanya menggunakan PID saja. Di angka 50% throttle, quadcopter baru dapat melakukan hovering namun hanya sebentar saja sebelum quadcopter mengguling. **Diharuskan menggunakan perumusan kinematika dalam merancang quadcopter**.
