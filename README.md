@@ -5,8 +5,11 @@ Welcome to the GitHub repository for our Quadcopter GUI & Control, part of the "
 ## Team Members
 
 - Mechatronics A 2021:
-  - Fatwa Aulia Al-Haq - 4121600020
+  - Fatwa Aulia Al-Haq   - 4121600020
   - Diyon Aziz Saifulloh - 4121600025
+  - Risky Odang Sanjaya  - 4121600013
+  - Adellia Prathatya    - 4121600016
+  - Aisha Zefanya Alevia - 4121600024
 - Mechatronics B 2021:
   - Fatkhur Rohman Fajar Pramuji - 4121600043
   - Reza Zakaria - 4121600048
