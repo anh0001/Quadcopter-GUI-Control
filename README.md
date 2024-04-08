@@ -12,7 +12,9 @@ Welcome to the GitHub repository for our Quadcopter GUI & Control, part of the "
   - Aisha Zefanya Alevia - 4121600024
 - Mechatronics B 2021:
   - Fatkhur Rohman Fajar Pramuji - 4121600043
-  - Reza Zakaria - 4121600048
+  - Reza Zakaria                 - 4121600048
+  - Junio Hangga Wicaksono       - 4121600046
+  - Achmad Bagus Okto Faerizqi   - 4121600054
 
 ## Repository Structure
 
